@@ -1,0 +1,1894 @@
+{
+    "USP-S | Lead Conduit": [
+        "USP-S | Lead Conduit",
+        "blue"
+    ],
+    "Tec-9 | Jambiya": [
+        "Tec-9 | Jambiya",
+        "blue"
+    ],
+    "SSG 08 | Necropos": [
+        "SSG 08 | Necropos",
+        "blue"
+    ],
+    "MAC-10 | Lapis Gator": [
+        "MAC-10 | Lapis Gator",
+        "blue"
+    ],
+    "Dual Berettas | Cartel": [
+        "Dual Berettas | Cartel",
+        "blue"
+    ],
+    "PP-Bizon | Photic Zone": [
+        "PP-Bizon | Photic Zone",
+        "blue"
+    ],
+    "MP7 | Impire": [
+        "MP7 | Impire",
+        "purple"
+    ],
+    "MAG-7 | Praetorian": [
+        "MAG-7 | Praetorian",
+        "purple"
+    ],
+    "Glock-18 | Royal Legion": [
+        "Glock-18 | Royal Legion",
+        "purple"
+    ],
+    "Five-SeveN | Triumvirate": [
+        "Five-SeveN | Triumvirate",
+        "purple"
+    ],
+    "FAMAS | Valence": [
+        "FAMAS | Valence",
+        "purple"
+    ],
+    "Nova | Hyper Beast": [
+        "Nova | Hyper Beast",
+        "pink"
+    ],
+    "Desert Eagle | Kumicho Dragon": [
+        "Desert Eagle | Kumicho Dragon",
+        "pink"
+    ],
+    "AWP | Elite Build": [
+        "AWP | Elite Build",
+        "pink"
+    ],
+    "M4A4 | The Battlestar": [
+        "M4A4 | The Battlestar",
+        "red"
+    ],
+    "AK-47 | Fuel Injector": [
+        "AK-47 | Fuel Injector",
+        "red"
+    ],
+    "Knife": [
+        "Knife",
+        "special"
+    ],
+    "USP-S | Blueprint": [
+        "USP-S | Blueprint",
+        "blue"
+    ],
+    "FAMAS | Macabre": [
+        "FAMAS | Macabre",
+        "blue"
+    ],
+    "M4A1-S | Briefing": [
+        "M4A1-S | Briefing",
+        "blue"
+    ],
+    "MAC-10 | Aloha": [
+        "MAC-10 | Aloha",
+        "blue"
+    ],
+    "MAG-7 | Hard Water": [
+        "MAG-7 | Hard Water",
+        "blue"
+    ],
+    "Tec-9 | Cut Out": [
+        "Tec-9 | Cut Out",
+        "blue"
+    ],
+    "UMP-45 | Metal Flowers": [
+        "UMP-45 | Metal Flowers",
+        "blue"
+    ],
+    "AK-47 | Orbit Mk01": [
+        "AK-47 | Orbit Mk01",
+        "purple"
+    ],
+    "P2000 | Woodsman": [
+        "P2000 | Woodsman",
+        "purple"
+    ],
+    "P250 | Red Rock": [
+        "P250 | Red Rock",
+        "purple"
+    ],
+    "P90 | Death Grip": [
+        "P90 | Death Grip",
+        "purple"
+    ],
+    "SSG 08 | Death's Head": [
+        "SSG 08 | Death's Head",
+        "purple"
+    ],
+    "Dual Berettas | Cobra Strike": [
+        "Dual Berettas | Cobra Strike",
+        "pink"
+    ],
+    "Galil AR | Sugar Rush": [
+        "Galil AR | Sugar Rush",
+        "pink"
+    ],
+    "M4A4 | Hellfire": [
+        "M4A4 | Hellfire",
+        "pink"
+    ],
+    "Five-SeveN | Hyper Beast": [
+        "Five-SeveN | Hyper Beast",
+        "red"
+    ],
+    "AWP | Oni Taiji": [
+        "AWP | Oni Taiji",
+        "red"
+    ],
+    "PP-Bizon | Jungle Slipstream": [
+        "PP-Bizon | Jungle Slipstream",
+        "blue"
+    ],
+    "SCAR-20 | Blueprint": [
+        "SCAR-20 | Blueprint",
+        "blue"
+    ],
+    "Desert Eagle | Oxide Blaze": [
+        "Desert Eagle | Oxide Blaze",
+        "blue"
+    ],
+    "Five-SeveN | Capillary": [
+        "Five-SeveN | Capillary",
+        "blue"
+    ],
+    "MP7 | Akoben": [
+        "MP7 | Akoben",
+        "blue"
+    ],
+    "P250 | Ripple": [
+        "P250 | Ripple",
+        "blue"
+    ],
+    "Sawed-Off | Zander": [
+        "Sawed-Off | Zander",
+        "blue"
+    ],
+    "Galil AR | Crimson Tsunami": [
+        "Galil AR | Crimson Tsunami",
+        "purple"
+    ],
+    "M249 | Emerald Poison Dart": [
+        "M249 | Emerald Poison Dart",
+        "purple"
+    ],
+    "MAC-10 | Last Dive": [
+        "MAC-10 | Last Dive",
+        "purple"
+    ],
+    "UMP-45 | Scaffold": [
+        "UMP-45 | Scaffold",
+        "purple"
+    ],
+    "XM1014 | Seasons": [
+        "XM1014 | Seasons",
+        "purple"
+    ],
+    "AWP | Fever Dream": [
+        "AWP | Fever Dream",
+        "pink"
+    ],
+    "CZ75-Auto | Xiangliu": [
+        "CZ75-Auto | Xiangliu",
+        "pink"
+    ],
+    "M4A1-S | Decimator": [
+        "M4A1-S | Decimator",
+        "pink"
+    ],
+    "AK-47 | Bloodsport": [
+        "AK-47 | Bloodsport",
+        "red"
+    ],
+    "USP-S | Neo-Noir": [
+        "USP-S | Neo-Noir",
+        "red"
+    ],
+    "CZ75-Auto | Polymer": [
+        "CZ75-Auto | Polymer",
+        "blue"
+    ],
+    "Glock-18 | Ironwork": [
+        "Glock-18 | Ironwork",
+        "blue"
+    ],
+    "MP7 | Cirrus": [
+        "MP7 | Cirrus",
+        "blue"
+    ],
+    "Galil AR | Black Sand": [
+        "Galil AR | Black Sand",
+        "blue"
+    ],
+    "MP9 | Sand Scale": [
+        "MP9 | Sand Scale",
+        "blue"
+    ],
+    "MP9 | Sonar": [
+        "MP9 | Sonar",
+        "blue"
+    ],
+    "MAG-7 | Sonar": [
+        "MAG-7 | Sonar",
+        "blue"
+    ],
+    "P2000 | Turf": [
+        "P2000 | Turf",
+        "purple"
+    ],
+    "Dual Berettas | Royal Consorts": [
+        "Dual Berettas | Royal Consorts",
+        "purple"
+    ],
+    "G3SG1 | Stinger": [
+        "G3SG1 | Stinger",
+        "purple"
+    ],
+    "M4A1-S | Flashback": [
+        "M4A1-S | Flashback",
+        "purple"
+    ],
+    "Nova | Gila": [
+        "Nova | Gila",
+        "purple"
+    ],
+    "USP-S | Cyrex": [
+        "USP-S | Cyrex",
+        "purple"
+    ],
+    "FAMAS | Mecha Industries": [
+        "FAMAS | Mecha Industries",
+        "pink"
+    ],
+    "P90 | Shallow Grave": [
+        "P90 | Shallow Grave",
+        "pink"
+    ],
+    "Sawed-Off | Wasteland Princess": [
+        "Sawed-Off | Wasteland Princess",
+        "red"
+    ],
+    "SSG 08 | Dragonfire": [
+        "SSG 08 | Dragonfire",
+        "red"
+    ],
+    "M4A4 | Buzz Kill": [
+        "M4A4 | Buzz Kill",
+        "red"
+    ],
+    "Gloves": [
+        "Gloves",
+        "special"
+    ],
+    "CZ75-Auto | Imprint": [
+        "CZ75-Auto | Imprint",
+        "blue"
+    ],
+    "Five-SeveN | Scumbria": [
+        "Five-SeveN | Scumbria",
+        "blue"
+    ],
+    "G3SG1 | Ventilator": [
+        "G3SG1 | Ventilator",
+        "blue"
+    ],
+    "Negev | Dazzle": [
+        "Negev | Dazzle",
+        "blue"
+    ],
+    "P90 | Grim": [
+        "P90 | Grim",
+        "blue"
+    ],
+    "UMP-45 | Briefing": [
+        "UMP-45 | Briefing",
+        "blue"
+    ],
+    "XM1014 | Slipstream": [
+        "XM1014 | Slipstream",
+        "blue"
+    ],
+    "Desert Eagle | Directive": [
+        "Desert Eagle | Directive",
+        "purple"
+    ],
+    "Glock-18 | Weasel": [
+        "Glock-18 | Weasel",
+        "purple"
+    ],
+    "MAG-7 | Petroglyph": [
+        "MAG-7 | Petroglyph",
+        "purple"
+    ],
+    "SCAR-20 | Powercore": [
+        "SCAR-20 | Powercore",
+        "purple"
+    ],
+    "SG 553 | Triarch": [
+        "SG 553 | Triarch",
+        "purple"
+    ],
+    "AUG | Syd Mead": [
+        "AUG | Syd Mead",
+        "pink"
+    ],
+    "MP9 | Airlock": [
+        "MP9 | Airlock",
+        "pink"
+    ],
+    "Tec-9 | Fuel Injector": [
+        "Tec-9 | Fuel Injector",
+        "pink"
+    ],
+    "AK-47 | Neon Revolution": [
+        "AK-47 | Neon Revolution",
+        "red"
+    ],
+    "FAMAS | Roll Cage": [
+        "FAMAS | Roll Cage",
+        "red"
+    ],
+    "Five-SeveN | Violent Daimyo": [
+        "Five-SeveN | Violent Daimyo",
+        "blue"
+    ],
+    "MAC-10 | Carnivore": [
+        "MAC-10 | Carnivore",
+        "blue"
+    ],
+    "Nova | Exo": [
+        "Nova | Exo",
+        "blue"
+    ],
+    "P250 | Iron Clad": [
+        "P250 | Iron Clad",
+        "blue"
+    ],
+    "PP-Bizon | Harvester": [
+        "PP-Bizon | Harvester",
+        "blue"
+    ],
+    "SG 553 | Aerial": [
+        "SG 553 | Aerial",
+        "blue"
+    ],
+    "Tec-9 | Ice Cap": [
+        "Tec-9 | Ice Cap",
+        "blue"
+    ],
+    "AUG | Aristocrat": [
+        "AUG | Aristocrat",
+        "purple"
+    ],
+    "AWP | Phobos": [
+        "AWP | Phobos",
+        "purple"
+    ],
+    "P90 | Chopper": [
+        "P90 | Chopper",
+        "purple"
+    ],
+    "R8 Revolver | Reboot": [
+        "R8 Revolver | Reboot",
+        "purple"
+    ],
+    "Sawed-Off | Limelight": [
+        "Sawed-Off | Limelight",
+        "purple"
+    ],
+    "M4A4 | Desolate Space": [
+        "M4A4 | Desolate Space",
+        "pink"
+    ],
+    "P2000 | Imperial Dragon": [
+        "P2000 | Imperial Dragon",
+        "pink"
+    ],
+    "SCAR-20 | Bloodsport": [
+        "SCAR-20 | Bloodsport",
+        "pink"
+    ],
+    "Glock-18 | Wasteland Rebel": [
+        "Glock-18 | Wasteland Rebel",
+        "red"
+    ],
+    "M4A1-S | Mecha Industries": [
+        "M4A1-S | Mecha Industries",
+        "red"
+    ],
+    "Dual Berettas | Ventilators": [
+        "Dual Berettas | Ventilators",
+        "blue"
+    ],
+    "G3SG1 | Orange Crash": [
+        "G3SG1 | Orange Crash",
+        "blue"
+    ],
+    "M249 | Spectre": [
+        "M249 | Spectre",
+        "blue"
+    ],
+    "MP9 | Bioleak": [
+        "MP9 | Bioleak",
+        "blue"
+    ],
+    "P2000 | Oceanic": [
+        "P2000 | Oceanic",
+        "blue"
+    ],
+    "Sawed-Off | Fubar": [
+        "Sawed-Off | Fubar",
+        "blue"
+    ],
+    "SG 553 | Atlas": [
+        "SG 553 | Atlas",
+        "blue"
+    ],
+    "CZ75-Auto | Red Astor": [
+        "CZ75-Auto | Red Astor",
+        "purple"
+    ],
+    "Galil AR | Firefight": [
+        "Galil AR | Firefight",
+        "purple"
+    ],
+    "SSG 08 | Ghost Crusader": [
+        "SSG 08 | Ghost Crusader",
+        "purple"
+    ],
+    "Tec-9 | Re-Entry": [
+        "Tec-9 | Re-Entry",
+        "purple"
+    ],
+    "XM1014 | Black Tie": [
+        "XM1014 | Black Tie",
+        "purple"
+    ],
+    "AUG | Fleet Flock": [
+        "AUG | Fleet Flock",
+        "pink"
+    ],
+    "P250 | Asiimov": [
+        "P250 | Asiimov",
+        "pink"
+    ],
+    "UMP-45 | Primal Saber": [
+        "UMP-45 | Primal Saber",
+        "pink"
+    ],
+    "PP-Bizon | Judgement of Anubis": [
+        "PP-Bizon | Judgement of Anubis",
+        "red"
+    ],
+    "M4A1-S | Chantico's Fire": [
+        "M4A1-S | Chantico's Fire",
+        "red"
+    ],
+    "SCAR-20 | Outbreak": [
+        "SCAR-20 | Outbreak",
+        "blue"
+    ],
+    "Sawed-Off | Yorick": [
+        "Sawed-Off | Yorick",
+        "blue"
+    ],
+    "P2000 | Imperial": [
+        "P2000 | Imperial",
+        "blue"
+    ],
+    "Desert Eagle | Corinthian": [
+        "Desert Eagle | Corinthian",
+        "blue"
+    ],
+    "AUG | Ricochet": [
+        "AUG | Ricochet",
+        "blue"
+    ],
+    "R8 Revolver | Crimson Web": [
+        "R8 Revolver | Crimson Web",
+        "blue"
+    ],
+    "XM1014 | Teclu Burner": [
+        "XM1014 | Teclu Burner",
+        "purple"
+    ],
+    "Tec-9 | Avalanche": [
+        "Tec-9 | Avalanche",
+        "purple"
+    ],
+    "SG 553 | Tiger Moth": [
+        "SG 553 | Tiger Moth",
+        "purple"
+    ],
+    "Five-SeveN | Retrobution": [
+        "Five-SeveN | Retrobution",
+        "purple"
+    ],
+    "Negev | Power Loader": [
+        "Negev | Power Loader",
+        "purple"
+    ],
+    "PP-Bizon | Fuel Rod": [
+        "PP-Bizon | Fuel Rod",
+        "purple"
+    ],
+    "G3SG1 | The Executioner": [
+        "G3SG1 | The Executioner",
+        "pink"
+    ],
+    "P90 | Shapewood": [
+        "P90 | Shapewood",
+        "pink"
+    ],
+    "AK-47 | Point Disarray": [
+        "AK-47 | Point Disarray",
+        "pink"
+    ],
+    "M4A4 | Royal Paladin": [
+        "M4A4 | Royal Paladin",
+        "red"
+    ],
+    "R8 Revolver | Fade": [
+        "R8 Revolver | Fade",
+        "red"
+    ],
+    "Dual Berettas | Dualing Dragons": [
+        "Dual Berettas | Dualing Dragons",
+        "blue"
+    ],
+    "FAMAS | Survivor Z": [
+        "FAMAS | Survivor Z",
+        "blue"
+    ],
+    "Glock-18 | Wraiths": [
+        "Glock-18 | Wraiths",
+        "blue"
+    ],
+    "MAC-10 | Rangeen": [
+        "MAC-10 | Rangeen",
+        "blue"
+    ],
+    "MAG-7 | Cobalt Core": [
+        "MAG-7 | Cobalt Core",
+        "blue"
+    ],
+    "SCAR-20 | Green Marine": [
+        "SCAR-20 | Green Marine",
+        "blue"
+    ],
+    "XM1014 | Scumbria": [
+        "XM1014 | Scumbria",
+        "blue"
+    ],
+    "Galil AR | Stone Cold": [
+        "Galil AR | Stone Cold",
+        "purple"
+    ],
+    "M249 | Nebula Crusader": [
+        "M249 | Nebula Crusader",
+        "purple"
+    ],
+    "MP7 | Special Delivery": [
+        "MP7 | Special Delivery",
+        "purple"
+    ],
+    "P250 | Wingshot": [
+        "P250 | Wingshot",
+        "purple"
+    ],
+    "AK-47 | Frontside Misty": [
+        "AK-47 | Frontside Misty",
+        "pink"
+    ],
+    "G3SG1 | Flux": [
+        "G3SG1 | Flux",
+        "pink"
+    ],
+    "SSG 08 | Big Iron": [
+        "SSG 08 | Big Iron",
+        "pink"
+    ],
+    "M4A1-S | Golden Coil": [
+        "M4A1-S | Golden Coil",
+        "red"
+    ],
+    "USP-S | Kill Confirmed": [
+        "USP-S | Kill Confirmed",
+        "red"
+    ],
+    "DGalil AR | Rocket Pop": [
+        "DGalil AR | Rocket Pop",
+        "blue"
+    ],
+    "Glock-18 | Bunsen Burner": [
+        "Glock-18 | Bunsen Burner",
+        "blue"
+    ],
+    "Nova | Ranger": [
+        "Nova | Ranger",
+        "blue"
+    ],
+    "P90 | Elite Build": [
+        "P90 | Elite Build",
+        "blue"
+    ],
+    "UMP-45 | Riot": [
+        "UMP-45 | Riot",
+        "blue"
+    ],
+    "USP-S | Torque": [
+        "USP-S | Torque",
+        "blue"
+    ],
+    "FAMAS | Neural Net": [
+        "FAMAS | Neural Net",
+        "purple"
+    ],
+    "M4A4 | Evil Daimyo": [
+        "M4A4 | Evil Daimyo",
+        "purple"
+    ],
+    "MP9 | Ruby Poison Dart": [
+        "MP9 | Ruby Poison Dart",
+        "purple"
+    ],
+    "Negev | Loudmouth": [
+        "Negev | Loudmouth",
+        "purple"
+    ],
+    "P2000 | Handgun": [
+        "P2000 | Handgun",
+        "purple"
+    ],
+    "CZ75-Auto | Yellow Jacket": [
+        "CZ75-Auto | Yellow Jacket",
+        "pink"
+    ],
+    "MP7 | Nemesis": [
+        "MP7 | Nemesis",
+        "pink"
+    ],
+    "SG 553 | Cyrex": [
+        "SG 553 | Cyrex",
+        "pink"
+    ],
+    "AK-47 | Aquamarine Revenge": [
+        "AK-47 | Aquamarine Revenge",
+        "red"
+    ],
+    "AWP | Hyper Beast": [
+        "AWP | Hyper Beast",
+        "red"
+    ],
+    "AK-47 | Elite Build": [
+        "AK-47 | Elite Build",
+        "blue"
+    ],
+    "MP7 | Armor Core": [
+        "MP7 | Armor Core",
+        "blue"
+    ],
+    "Desert Eagle | Bronze Deco": [
+        "Desert Eagle | Bronze Deco",
+        "blue"
+    ],
+    "P250 | Valence": [
+        "P250 | Valence",
+        "blue"
+    ],
+    "Negev | Man-o'-war": [
+        "Negev | Man-o'-war",
+        "blue"
+    ],
+    "Sawed-Off | Origami": [
+        "Sawed-Off | Origami",
+        "blue"
+    ],
+    "AWP | Worm God": [
+        "AWP | Worm God",
+        "purple"
+    ],
+    "MAG-7 | Heat": [
+        "MAG-7 | Heat",
+        "purple"
+    ],
+    "CZ75-Auto | Pole Position": [
+        "CZ75-Auto | Pole Position",
+        "purple"
+    ],
+    "UMP-45 | Grand Prix": [
+        "UMP-45 | Grand Prix",
+        "purple"
+    ],
+    "Five-SeveN | Monkey Business": [
+        "Five-SeveN | Monkey Business",
+        "pink"
+    ],
+    "Galil AR | Eco": [
+        "Galil AR | Eco",
+        "pink"
+    ],
+    "FAMAS | Djinn": [
+        "FAMAS | Djinn",
+        "pink"
+    ],
+    "M4A1-S | Hyper Beast": [
+        "M4A1-S | Hyper Beast",
+        "red"
+    ],
+    "MAC-10 | Neon Rider": [
+        "MAC-10 | Neon Rider",
+        "red"
+    ],
+    "Glock-18 | Catacombs": [
+        "Glock-18 | Catacombs",
+        "blue"
+    ],
+    "M249 | System Lock": [
+        "M249 | System Lock",
+        "blue"
+    ],
+    "MP9 | Deadly Poison": [
+        "MP9 | Deadly Poison",
+        "blue"
+    ],
+    "SCAR-20 | Grotto": [
+        "SCAR-20 | Grotto",
+        "blue"
+    ],
+    "XM1014 | Quicksilver": [
+        "XM1014 | Quicksilver",
+        "blue"
+    ],
+    "Dual Berettas | Urban Shock": [
+        "Dual Berettas | Urban Shock",
+        "purple"
+    ],
+    "Desert Eagle | Naga": [
+        "Desert Eagle | Naga",
+        "purple"
+    ],
+    "MAC-10 | Malachite": [
+        "MAC-10 | Malachite",
+        "purple"
+    ],
+    "Sawed-Off | Serenity": [
+        "Sawed-Off | Serenity",
+        "purple"
+    ],
+    "AK-47 | Cartel": [
+        "AK-47 | Cartel",
+        "pink"
+    ],
+    "M4A4 | Dragon King": [
+        "M4A4 | Dragon King",
+        "pink"
+    ],
+    "P250 | Muertos": [
+        "P250 | Muertos",
+        "pink"
+    ],
+    "AWP | Man-o'-war": [
+        "AWP | Man-o'-war",
+        "red"
+    ],
+    "Galil AR | Chatterbox": [
+        "Galil AR | Chatterbox",
+        "red"
+    ],
+    "G3SG1 | Murky": [
+        "G3SG1 | Murky",
+        "blue"
+    ],
+    "MAG-7 | Firestarter": [
+        "MAG-7 | Firestarter",
+        "blue"
+    ],
+    "MP9 | Dart": [
+        "MP9 | Dart",
+        "blue"
+    ],
+    "Five-SeveN | Urban Hazard": [
+        "Five-SeveN | Urban Hazard",
+        "blue"
+    ],
+    "UMP-45 | Delusion": [
+        "UMP-45 | Delusion",
+        "blue"
+    ],
+    "Glock-18 | Grinder": [
+        "Glock-18 | Grinder",
+        "purple"
+    ],
+    "M4A1-S | Basilisk": [
+        "M4A1-S | Basilisk",
+        "purple"
+    ],
+    "M4A4 | Griffin": [
+        "M4A4 | Griffin",
+        "purple"
+    ],
+    "Sawed-Off | Highwayman": [
+        "Sawed-Off | Highwayman",
+        "purple"
+    ],
+    "P250 | Cartel": [
+        "P250 | Cartel",
+        "pink"
+    ],
+    "SCAR-20 | Cardiac": [
+        "SCAR-20 | Cardiac",
+        "pink"
+    ],
+    "XM1014 | Tranquility": [
+        "XM1014 | Tranquility",
+        "pink"
+    ],
+    "AK-47 | Wasteland Rebel": [
+        "AK-47 | Wasteland Rebel",
+        "red"
+    ],
+    "P2000 | Fire Elemental": [
+        "P2000 | Fire Elemental",
+        "red"
+    ],
+    "SSG 08 | Dark Water": [
+        "SSG 08 | Dark Water",
+        "blue"
+    ],
+    "MAC-10 | Ultraviolet": [
+        "MAC-10 | Ultraviolet",
+        "blue"
+    ],
+    "USP-S | Blood Tiger": [
+        "USP-S | Blood Tiger",
+        "blue"
+    ],
+    "CZ75-Auto | Hexane": [
+        "CZ75-Auto | Hexane",
+        "blue"
+    ],
+    "Negev | Bratatat": [
+        "Negev | Bratatat",
+        "blue"
+    ],
+    "XM1014 | Red Python": [
+        "XM1014 | Red Python",
+        "blue"
+    ],
+    "PP-Bizon | Blue Streak": [
+        "PP-Bizon | Blue Streak",
+        "purple"
+    ],
+    "P90 | Virus": [
+        "P90 | Virus",
+        "purple"
+    ],
+    "MP7 | Ocean Foam": [
+        "MP7 | Ocean Foam",
+        "purple"
+    ],
+    "Glock-18 | Steel Disruption": [
+        "Glock-18 | Steel Disruption",
+        "purple"
+    ],
+    "Desert Eagle | Crimson Web": [
+        "Desert Eagle | Crimson Web",
+        "purple"
+    ],
+    "AUG | Bengal Tiger": [
+        "AUG | Bengal Tiger",
+        "pink"
+    ],
+    "Nova | Bloomstick": [
+        "Nova | Bloomstick",
+        "pink"
+    ],
+    "AWP | Corticera": [
+        "AWP | Corticera",
+        "pink"
+    ],
+    "P2000 | Corticera": [
+        "P2000 | Corticera",
+        "pink"
+    ],
+    "M4A4 | Bullet Rain": [
+        "M4A4 | Bullet Rain",
+        "red"
+    ],
+    "AK-47 | Jaguar": [
+        "AK-47 | Jaguar",
+        "red"
+    ],
+    "MP7 | Urban Hazard": [
+        "MP7 | Urban Hazard",
+        "blue"
+    ],
+    "Negev | Desert-Strike": [
+        "Negev | Desert-Strike",
+        "blue"
+    ],
+    "P2000 | Ivory": [
+        "P2000 | Ivory",
+        "blue"
+    ],
+    "SSG 08 | Abyss": [
+        "SSG 08 | Abyss",
+        "blue"
+    ],
+    "UMP-45 | Labyrinth": [
+        "UMP-45 | Labyrinth",
+        "blue"
+    ],
+    "PP-Bizon | Osiris": [
+        "PP-Bizon | Osiris",
+        "purple"
+    ],
+    "CZ75-Auto | Tigris": [
+        "CZ75-Auto | Tigris",
+        "purple"
+    ],
+    "Nova | Koi": [
+        "Nova | Koi",
+        "purple"
+    ],
+    "P250 | Supernova": [
+        "P250 | Supernova",
+        "purple"
+    ],
+    "Desert Eagle | Conspiracy": [
+        "Desert Eagle | Conspiracy",
+        "pink"
+    ],
+    "Five-SeveN | Fowl Play": [
+        "Five-SeveN | Fowl Play",
+        "pink"
+    ],
+    "Glock-18 | Water Elemental": [
+        "Glock-18 | Water Elemental",
+        "pink"
+    ],
+    "P90 | Asiimov": [
+        "P90 | Asiimov",
+        "red"
+    ],
+    "M4A1-S | Cyrex": [
+        "M4A1-S | Cyrex",
+        "red"
+    ],
+    "Tec-9 | Isaac": [
+        "Tec-9 | Isaac",
+        "blue"
+    ],
+    "SSG 08 | Slashed": [
+        "SSG 08 | Slashed",
+        "blue"
+    ],
+    "Galil AR | Kami": [
+        "Galil AR | Kami",
+        "blue"
+    ],
+    "CZ75-Auto | Twist": [
+        "CZ75-Auto | Twist",
+        "blue"
+    ],
+    "P90 | Module": [
+        "P90 | Module",
+        "blue"
+    ],
+    "P2000 | Pulse": [
+        "P2000 | Pulse",
+        "blue"
+    ],
+    "AUG | Torque": [
+        "AUG | Torque",
+        "purple"
+    ],
+    "PP-Bizon | Antique": [
+        "PP-Bizon | Antique",
+        "purple"
+    ],
+    "XM1014 | Heaven Guard": [
+        "XM1014 | Heaven Guard",
+        "purple"
+    ],
+    "MAC-10 | Tatter": [
+        "MAC-10 | Tatter",
+        "purple"
+    ],
+    "M4A1-S | Atomic Alloy": [
+        "M4A1-S | Atomic Alloy",
+        "pink"
+    ],
+    "SCAR-20 | Cyrex": [
+        "SCAR-20 | Cyrex",
+        "pink"
+    ],
+    "USP-S | Caiman": [
+        "USP-S | Caiman",
+        "pink"
+    ],
+    "AK-47 | Vulcan": [
+        "AK-47 | Vulcan",
+        "red"
+    ],
+    "M4A4 | Desert-Strike": [
+        "M4A4 | Desert-Strike",
+        "red"
+    ],
+    "UMP-45 | Corporal": [
+        "UMP-45 | Corporal",
+        "blue"
+    ],
+    "Negev | Terrain": [
+        "Negev | Terrain",
+        "blue"
+    ],
+    "Tec-9 | Sandstorm": [
+        "Tec-9 | Sandstorm",
+        "blue"
+    ],
+    "MAG-7 | Heaven Guard": [
+        "MAG-7 | Heaven Guard",
+        "blue"
+    ],
+    "MAC-10 | Heat": [
+        "MAC-10 | Heat",
+        "purple"
+    ],
+    "SG 553 | Pulse": [
+        "SG 553 | Pulse",
+        "purple"
+    ],
+    "FAMAS | Sergeant": [
+        "FAMAS | Sergeant",
+        "purple"
+    ],
+    "USP-S | Guardian": [
+        "USP-S | Guardian",
+        "purple"
+    ],
+    "AK-47 | Redline": [
+        "AK-47 | Redline",
+        "pink"
+    ],
+    "P90 | Trigon": [
+        "P90 | Trigon",
+        "pink"
+    ],
+    "Nova | Antique": [
+        "Nova | Antique",
+        "pink"
+    ],
+    "AWP | Asiimov": [
+        "AWP | Asiimov",
+        "red"
+    ],
+    "AUG | Chameleon": [
+        "AUG | Chameleon",
+        "red"
+    ],
+    "CZ75-Auto | Crimson Web": [
+        "CZ75-Auto | Crimson Web",
+        "blue"
+    ],
+    "P2000 | Red FragCam": [
+        "P2000 | Red FragCam",
+        "blue"
+    ],
+    "Dual Berettas | Panther": [
+        "Dual Berettas | Panther",
+        "blue"
+    ],
+    "USP-S | Stainless": [
+        "USP-S | Stainless",
+        "blue"
+    ],
+    "Glock-18 | Blue Fissure": [
+        "Glock-18 | Blue Fissure",
+        "blue"
+    ],
+    "CZ75-Auto | Tread Plate": [
+        "CZ75-Auto | Tread Plate",
+        "purple"
+    ],
+    "Tec-9 | Titanium Bit": [
+        "Tec-9 | Titanium Bit",
+        "purple"
+    ],
+    "Desert Eagle | Heirloom": [
+        "Desert Eagle | Heirloom",
+        "purple"
+    ],
+    "Five-SeveN | Copper Galaxy": [
+        "Five-SeveN | Copper Galaxy",
+        "purple"
+    ],
+    "CZ75-Auto | The Fuschia Is Now": [
+        "CZ75-Auto | The Fuschia Is Now",
+        "pink"
+    ],
+    "P250 | Undertow": [
+        "P250 | Undertow",
+        "pink"
+    ],
+    "CZ75-Auto | Victoria": [
+        "CZ75-Auto | Victoria",
+        "red"
+    ],
+    "Galil AR | Sandstorm": [
+        "Galil AR | Sandstorm",
+        "blue"
+    ],
+    "Five-SeveN | Kami": [
+        "Five-SeveN | Kami",
+        "blue"
+    ],
+    "M249 | Magma": [
+        "M249 | Magma",
+        "blue"
+    ],
+    "PP-Bizon | Cobalt Halftone": [
+        "PP-Bizon | Cobalt Halftone",
+        "blue"
+    ],
+    "FAMAS | Pulse": [
+        "FAMAS | Pulse",
+        "purple"
+    ],
+    "Dual Berettas | Marina": [
+        "Dual Berettas | Marina",
+        "purple"
+    ],
+    "MP9 | Rose Iron": [
+        "MP9 | Rose Iron",
+        "purple"
+    ],
+    "Nova | Rising Skull": [
+        "Nova | Rising Skull",
+        "purple"
+    ],
+    "M4A1-S | Guardian": [
+        "M4A1-S | Guardian",
+        "pink"
+    ],
+    "P250 | Mehndi": [
+        "P250 | Mehndi",
+        "pink"
+    ],
+    "AWP | Redline": [
+        "AWP | Redline",
+        "pink"
+    ],
+    "M4A4 | Asiimov": [
+        "M4A4 | Asiimov",
+        "red"
+    ],
+    "Sawed-Off | The Kraken": [
+        "Sawed-Off | The Kraken",
+        "red"
+    ],
+    "Galil AR | Blue Titanium": [
+        "Galil AR | Blue Titanium",
+        "blue"
+    ],
+    "Five-SeveN | Nightshade": [
+        "Five-SeveN | Nightshade",
+        "blue"
+    ],
+    "PP-Bizon | Water Sigil": [
+        "PP-Bizon | Water Sigil",
+        "blue"
+    ],
+    "Nova | Ghost Camo": [
+        "Nova | Ghost Camo",
+        "blue"
+    ],
+    "G3SG1 | Azure Zebra": [
+        "G3SG1 | Azure Zebra",
+        "blue"
+    ],
+    "P250 | Steel Disruption": [
+        "P250 | Steel Disruption",
+        "blue"
+    ],
+    "AK-47 | Blue Laminate": [
+        "AK-47 | Blue Laminate",
+        "purple"
+    ],
+    "P90 | Blind Spot": [
+        "P90 | Blind Spot",
+        "purple"
+    ],
+    "FAMAS | Afterimage": [
+        "FAMAS | Afterimage",
+        "pink"
+    ],
+    "AWP | Electric Hive": [
+        "AWP | Electric Hive",
+        "pink"
+    ],
+    "Desert Eagle | Cobalt Disruption": [
+        "Desert Eagle | Cobalt Disruption",
+        "pink"
+    ],
+    "M4A4 | X-Ray": [
+        "M4A4 | X-Ray",
+        "red"
+    ],
+    "Tec-9 | Blue Titanium": [
+        "Tec-9 | Blue Titanium",
+        "blue"
+    ],
+    "M4A1-S | Blood Tiger": [
+        "M4A1-S | Blood Tiger",
+        "blue"
+    ],
+    "FAMAS | Hexane": [
+        "FAMAS | Hexane",
+        "blue"
+    ],
+    "P250 | Hive": [
+        "P250 | Hive",
+        "blue"
+    ],
+    "SCAR-20 | Crimson Web": [
+        "SCAR-20 | Crimson Web",
+        "blue"
+    ],
+    "Five-SeveN | Case Hardened": [
+        "Five-SeveN | Case Hardened",
+        "purple"
+    ],
+    "MP9 | Hypnotic": [
+        "MP9 | Hypnotic",
+        "purple"
+    ],
+    "Nova | Graphite": [
+        "Nova | Graphite",
+        "purple"
+    ],
+    "Dual Berettas | Hemoglobin": [
+        "Dual Berettas | Hemoglobin",
+        "purple"
+    ],
+    "P90 | Cold Blooded": [
+        "P90 | Cold Blooded",
+        "pink"
+    ],
+    "USP-S | Serum": [
+        "USP-S | Serum",
+        "pink"
+    ],
+    "SSG 08 | Blood in the Water": [
+        "SSG 08 | Blood in the Water",
+        "red"
+    ],
+    "SG 553 | Wave Spray": [
+        "SG 553 | Wave Spray",
+        "blue"
+    ],
+    "Dual Berettas | Black Limba": [
+        "Dual Berettas | Black Limba",
+        "blue"
+    ],
+    "Nova | Tempest": [
+        "Nova | Tempest",
+        "blue"
+    ],
+    "Galil AR | Shattered": [
+        "Galil AR | Shattered",
+        "blue"
+    ],
+    "UMP-45 | Bone Pile": [
+        "UMP-45 | Bone Pile",
+        "blue"
+    ],
+    "G3SG1 | Demeter": [
+        "G3SG1 | Demeter",
+        "blue"
+    ],
+    "USP-S | Overgrowth": [
+        "USP-S | Overgrowth",
+        "purple"
+    ],
+    "M4A4 | Zirka": [
+        "M4A4 | Zirka",
+        "purple"
+    ],
+    "MAC-10 | Graven": [
+        "MAC-10 | Graven",
+        "purple"
+    ],
+    "M4A1-S | Bright Water": [
+        "M4A1-S | Bright Water",
+        "purple"
+    ],
+    "P90 | Emerald Dragon": [
+        "P90 | Emerald Dragon",
+        "pink"
+    ],
+    "P2000 | Ocean Foam": [
+        "P2000 | Ocean Foam",
+        "pink"
+    ],
+    "AWP | Graphite": [
+        "AWP | Graphite",
+        "pink"
+    ],
+    "AK-47 | Fire Serpent": [
+        "AK-47 | Fire Serpent",
+        "red"
+    ],
+    "Desert Eagle | Golden Koi": [
+        "Desert Eagle | Golden Koi",
+        "red"
+    ],
+    "MP7 | Skulls": [
+        "MP7 | Skulls",
+        "blue"
+    ],
+    "AUG | Wings": [
+        "AUG | Wings",
+        "blue"
+    ],
+    "SG 553 | Ultraviolet": [
+        "SG 553 | Ultraviolet",
+        "blue"
+    ],
+    "Glock-18 | Dragon Tattoo": [
+        "Glock-18 | Dragon Tattoo",
+        "purple"
+    ],
+    "USP-S | Dark Water": [
+        "USP-S | Dark Water",
+        "purple"
+    ],
+    "M4A1-S | Dark Water": [
+        "M4A1-S | Dark Water",
+        "purple"
+    ],
+    "AK-47 | Case Hardened": [
+        "AK-47 | Case Hardened",
+        "pink"
+    ],
+    "Desert Eagle | Hypnotic": [
+        "Desert Eagle | Hypnotic",
+        "pink"
+    ],
+    "AWP | Lightning Strike": [
+        "AWP | Lightning Strike",
+        "red"
+    ],
+    "SCAR-20 | Torn": [
+        "SCAR-20 | Torn",
+        "blue"
+    ],
+    "R8 Revolver | Memento": [
+        "R8 Revolver | Memento",
+        "blue"
+    ],
+    "G3SG1 | Black Sand": [
+        "G3SG1 | Black Sand",
+        "blue"
+    ],
+    "Nova | Plume": [
+        "Nova | Plume",
+        "blue"
+    ],
+    "M249 | Warbird": [
+        "M249 | Warbird",
+        "blue"
+    ],
+    "MP5-SD | Acid Wash": [
+        "MP5-SD | Acid Wash",
+        "blue"
+    ],
+    "Dual Berettas | Balance": [
+        "Dual Berettas | Balance",
+        "blue"
+    ],
+    "PP-Bizon | Embargo": [
+        "PP-Bizon | Embargo",
+        "purple"
+    ],
+    "MP7 | Neon Ply": [
+        "MP7 | Neon Ply",
+        "purple"
+    ],
+    "P2000 | Obsidian": [
+        "P2000 | Obsidian",
+        "purple"
+    ],
+    "AUG | Arctic Wolf": [
+        "AUG | Arctic Wolf",
+        "purple"
+    ],
+    "AK-47 | Rat Rod": [
+        "AK-47 | Rat Rod",
+        "purple"
+    ],
+    "Tec-9 | Decimator": [
+        "Tec-9 | Decimator",
+        "pink"
+    ],
+    "SSG 08 | Bloodshot": [
+        "SSG 08 | Bloodshot",
+        "pink"
+    ],
+    "SG 553 | Colony IV": [
+        "SG 553 | Colony IV",
+        "pink"
+    ],
+    "MAC-10 | Stalker": [
+        "MAC-10 | Stalker",
+        "red"
+    ],
+    "AWP | Containment Breach": [
+        "AWP | Containment Breach",
+        "red"
+    ],
+    "SCAR-20 | Assault": [
+        "SCAR-20 | Assault",
+        "blue"
+    ],
+    "Tec-9 | Flash Out": [
+        "Tec-9 | Flash Out",
+        "blue"
+    ],
+    "MAG-7 | Popdog": [
+        "MAG-7 | Popdog",
+        "blue"
+    ],
+    "MAC-10 | Classic Crate": [
+        "MAC-10 | Classic Crate",
+        "blue"
+    ],
+    "Dual Berettas | Elite 1.6": [
+        "Dual Berettas | Elite 1.6",
+        "blue"
+    ],
+    "FAMAS | Decommissioned": [
+        "FAMAS | Decommissioned",
+        "blue"
+    ],
+    "Glock-18 | Sacrifice": [
+        "Glock-18 | Sacrifice",
+        "blue"
+    ],
+    "M249 | Aztec": [
+        "M249 | Aztec",
+        "purple"
+    ],
+    "Five-SeveN | Buddy": [
+        "Five-SeveN | Buddy",
+        "purple"
+    ],
+    "UMP-45 | Plastique": [
+        "UMP-45 | Plastique",
+        "purple"
+    ],
+    "P250 | Inferno": [
+        "P250 | Inferno",
+        "purple"
+    ],
+    "MP5-SD | Agent": [
+        "MP5-SD | Agent",
+        "purple"
+    ],
+    "MP9 | Hydra": [
+        "MP9 | Hydra",
+        "pink"
+    ],
+    "P90 | Nostalgia": [
+        "P90 | Nostalgia",
+        "pink"
+    ],
+    "AUG | Death by Puppy": [
+        "AUG | Death by Puppy",
+        "pink"
+    ],
+    "FAMAS | Commemoration": [
+        "FAMAS | Commemoration",
+        "red"
+    ],
+    "AWP | Wildfire": [
+        "AWP | Wildfire",
+        "red"
+    ],
+    "MP7 | Mischief": [
+        "MP7 | Mischief",
+        "blue"
+    ],
+    "P90 | Off World": [
+        "P90 | Off World",
+        "blue"
+    ],
+    "FAMAS | Crypsis": [
+        "FAMAS | Crypsis",
+        "blue"
+    ],
+    "P250 | Verdigris": [
+        "P250 | Verdigris",
+        "blue"
+    ],
+    "Galil AR | Akoben": [
+        "Galil AR | Akoben",
+        "blue"
+    ],
+    "MAC-10 | Whitefish": [
+        "MAC-10 | Whitefish",
+        "blue"
+    ],
+    "AK-47 | Uncharted": [
+        "AK-47 | Uncharted",
+        "blue"
+    ],
+    "Tec-9 | Bamboozle": [
+        "Tec-9 | Bamboozle",
+        "purple"
+    ],
+    "UMP-45 | Moonrise": [
+        "UMP-45 | Moonrise",
+        "purple"
+    ],
+    "MP5-SD | Gauss": [
+        "MP5-SD | Gauss",
+        "purple"
+    ],
+    "Desert Eagle | Light Rail": [
+        "Desert Eagle | Light Rail",
+        "purple"
+    ],
+    "AWP | Atheris": [
+        "AWP | Atheris",
+        "purple"
+    ],
+    "R8 Revolver | Skull Crusher": [
+        "R8 Revolver | Skull Crusher",
+        "pink"
+    ],
+    "AUG | Momentum": [
+        "AUG | Momentum",
+        "pink"
+    ],
+    "XM1014 | Incinegator": [
+        "XM1014 | Incinegator",
+        "pink"
+    ],
+    "Five-SeveN | Angry Mob": [
+        "Five-SeveN | Angry Mob",
+        "red"
+    ],
+    "M4A4 | The Emperor": [
+        "M4A4 | The Emperor",
+        "red"
+    ],
+    "Nova | Wood Fired": [
+        "Nova | Wood Fired",
+        "blue"
+    ],
+    "Sawed-Off | Black Sand": [
+        "Sawed-Off | Black Sand",
+        "blue"
+    ],
+    "MP9 | Modest Threat": [
+        "MP9 | Modest Threat",
+        "blue"
+    ],
+    "SG 553 | Danger Close": [
+        "SG 553 | Danger Close",
+        "blue"
+    ],
+    "Glock-18 | Oxide Blaze": [
+        "Glock-18 | Oxide Blaze",
+        "blue"
+    ],
+    "M4A4 | Magnesium": [
+        "M4A4 | Magnesium",
+        "blue"
+    ],
+    "Tec-9 | Fubar": [
+        "Tec-9 | Fubar",
+        "blue"
+    ],
+    "G3SG1 | Scavenger": [
+        "G3SG1 | Scavenger",
+        "purple"
+    ],
+    "Galil AR | Signal": [
+        "Galil AR | Signal",
+        "purple"
+    ],
+    "P250 | Nevermore": [
+        "P250 | Nevermore",
+        "purple"
+    ],
+    "MAC-10 | Pipe Down": [
+        "MAC-10 | Pipe Down",
+        "purple"
+    ],
+    "USP-S | Flashback": [
+        "USP-S | Flashback",
+        "purple"
+    ],
+    "UMP-45 | Momentum": [
+        "UMP-45 | Momentum",
+        "pink"
+    ],
+    "Desert Eagle | Mecha Industries": [
+        "Desert Eagle | Mecha Industries",
+        "pink"
+    ],
+    "MP5-SD | Phosphor": [
+        "MP5-SD | Phosphor",
+        "pink"
+    ],
+    "AWP | Neo-Noir": [
+        "AWP | Neo-Noir",
+        "red"
+    ],
+    "AK-47 | Asiimov": [
+        "AK-47 | Asiimov",
+        "red"
+    ],
+    "MP9 | Capillary": [
+        "MP9 | Capillary",
+        "blue"
+    ],
+    "R8 Revolver | Survivalist": [
+        "R8 Revolver | Survivalist",
+        "blue"
+    ],
+    "Dual Berettas | Shred": [
+        "Dual Berettas | Shred",
+        "blue"
+    ],
+    "AUG | Amber Slipstream": [
+        "AUG | Amber Slipstream",
+        "blue"
+    ],
+    "Tec-9 | Snek-9": [
+        "Tec-9 | Snek-9",
+        "blue"
+    ],
+    "P90 | Traction": [
+        "P90 | Traction",
+        "blue"
+    ],
+    "Glock-18 | Warhawk": [
+        "Glock-18 | Warhawk",
+        "blue"
+    ],
+    "G3SG1 | High Seas": [
+        "G3SG1 | High Seas",
+        "purple"
+    ],
+    "MP7 | Powercore": [
+        "MP7 | Powercore",
+        "purple"
+    ],
+    "Nova | Toy Soldier": [
+        "Nova | Toy Soldier",
+        "purple"
+    ],
+    "CZ75-Auto | Eco": [
+        "CZ75-Auto | Eco",
+        "purple"
+    ],
+    "AWP | PAW": [
+        "AWP | PAW",
+        "purple"
+    ],
+    "FAMAS | Eye of Athena": [
+        "FAMAS | Eye of Athena",
+        "pink"
+    ],
+    "Sawed-Off | Devourer": [
+        "Sawed-Off | Devourer",
+        "pink"
+    ],
+    "M4A1-S | Nightmare": [
+        "M4A1-S | Nightmare",
+        "pink"
+    ],
+    "Desert Eagle | Code Red": [
+        "Desert Eagle | Code Red",
+        "red"
+    ],
+    "AK-47 | Neon Rider": [
+        "AK-47 | Neon Rider",
+        "red"
+    ],
+    "XM1014 | Oxide Blaze": [
+        "XM1014 | Oxide Blaze",
+        "blue"
+    ],
+    "PP-Bizon | Night Riot": [
+        "PP-Bizon | Night Riot",
+        "blue"
+    ],
+    "MP9 | Black Sand": [
+        "MP9 | Black Sand",
+        "blue"
+    ],
+    "SG 553 | Aloha": [
+        "SG 553 | Aloha",
+        "blue"
+    ],
+    "Five-SeveN | Flame Test": [
+        "Five-SeveN | Flame Test",
+        "blue"
+    ],
+    "P2000 | Urban Hazard": [
+        "P2000 | Urban Hazard",
+        "blue"
+    ],
+    "R8 Revolver | Grip": [
+        "R8 Revolver | Grip",
+        "blue"
+    ],
+    "Negev | Lionfish": [
+        "Negev | Lionfish",
+        "purple"
+    ],
+    "Nova | Wild Six": [
+        "Nova | Wild Six",
+        "purple"
+    ],
+    "MAG-7 | SWAG-7": [
+        "MAG-7 | SWAG-7",
+        "purple"
+    ],
+    "UMP-45 | Arctic Wolf": [
+        "UMP-45 | Arctic Wolf",
+        "purple"
+    ],
+    "Glock-18 | Moonrise": [
+        "Glock-18 | Moonrise",
+        "purple"
+    ],
+    "AUG | Stymphalian": [
+        "AUG | Stymphalian",
+        "pink"
+    ],
+    "USP-S | Cortex": [
+        "USP-S | Cortex",
+        "pink"
+    ],
+    "AWP | Mortis": [
+        "AWP | Mortis",
+        "pink"
+    ],
+    "MP7 | Bloodsport": [
+        "MP7 | Bloodsport",
+        "red"
+    ],
+    "M4A4 | Neo-Noir": [
+        "M4A4 | Neo-Noir",
+        "red"
+    ],
+    "Glock-18 | Off World": [
+        "Glock-18 | Off World",
+        "blue"
+    ],
+    "AUG | Triqua": [
+        "AUG | Triqua",
+        "blue"
+    ],
+    "Tec-9 | Cracked Opal": [
+        "Tec-9 | Cracked Opal",
+        "blue"
+    ],
+    "G3SG1 | Hunter": [
+        "G3SG1 | Hunter",
+        "blue"
+    ],
+    "Sawed-Off | Morris": [
+        "Sawed-Off | Morris",
+        "blue"
+    ],
+    "MAC-10 | Oceanic": [
+        "MAC-10 | Oceanic",
+        "blue"
+    ],
+    "SCAR-20 | Jungle Slipstream": [
+        "SCAR-20 | Jungle Slipstream",
+        "blue"
+    ],
+    "SG 553 | Phantom": [
+        "SG 553 | Phantom",
+        "purple"
+    ],
+    "MP9 | Goo": [
+        "MP9 | Goo",
+        "purple"
+    ],
+    "XM1014 | Ziggy": [
+        "XM1014 | Ziggy",
+        "purple"
+    ],
+    "UMP-45 | Exposure": [
+        "UMP-45 | Exposure",
+        "purple"
+    ],
+    "CZ75-Auto | Tacticat": [
+        "CZ75-Auto | Tacticat",
+        "purple"
+    ],
+    "PP-Bizon | High Roller": [
+        "PP-Bizon | High Roller",
+        "pink"
+    ],
+    "R8 Revolver | Llama Cannon": [
+        "R8 Revolver | Llama Cannon",
+        "pink"
+    ],
+    "M4A1-S | Leaded Glass": [
+        "M4A1-S | Leaded Glass",
+        "pink"
+    ],
+    "P250 | See Ya Later": [
+        "P250 | See Ya Later",
+        "red"
+    ],
+    "AK-47 | The Empress": [
+        "AK-47 | The Empress",
+        "red"
+    ],
+    "FAMAS | Doomkitty": [
+        "FAMAS | Doomkitty",
+        "blue"
+    ],
+    "MAG-7 | Memento": [
+        "MAG-7 | Memento",
+        "blue"
+    ],
+    "M4A4 | Faded Zebra": [
+        "M4A4 | Faded Zebra",
+        "blue"
+    ],
+    "Sawed-Off | Orange DDPAT": [
+        "Sawed-Off | Orange DDPAT",
+        "purple"
+    ],
+    "P250 | Splash": [
+        "P250 | Splash",
+        "purple"
+    ],
+    "Galil AR | Orange DDPAT": [
+        "Galil AR | Orange DDPAT",
+        "purple"
+    ],
+    "AK-47 | Red Laminate": [
+        "AK-47 | Red Laminate",
+        "pink"
+    ],
+    "AWP | BOOM": [
+        "AWP | BOOM",
+        "pink"
+    ],
+    "P90 | Death by Kitty": [
+        "P90 | Death by Kitty",
+        "red"
+    ]
+}

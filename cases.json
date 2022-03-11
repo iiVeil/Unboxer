@@ -1,0 +1,1017 @@
+{
+    "Operation Wildfire Case": {
+        "blue": ["USP-S | Lead Conduit", "Tec-9 | Jambiya", "SSG 08 | Necropos", "MAC-10 | Lapis Gator", "Dual Berettas | Cartel", "PP-Bizon | Photic Zone"],
+        "purple": ["MP7 | Impire","MAG-7 | Praetorian","Glock-18 | Royal Legion","Five-SeveN | Triumvirate","FAMAS | Valence"],
+        "pink": ["Nova | Hyper Beast","Desert Eagle | Kumicho Dragon","AWP | Elite Build"],
+        "red": ["M4A4 | The Battlestar","AK-47 | Fuel Injector"],
+        "special": ["Knife"]
+    },
+    "Operation Hydra Case": {
+        "blue": ["USP-S | Blueprint","FAMAS | Macabre","M4A1-S | Briefing","MAC-10 | Aloha","MAG-7 | Hard Water","Tec-9 | Cut Out","UMP-45 | Metal Flowers"],
+        "purple": ["AK-47 | Orbit Mk01","P2000 | Woodsman","P250 | Red Rock","P90 | Death Grip","SSG 08 | Death's Head"],
+        "pink": ["Dual Berettas | Cobra Strike","Galil AR | Sugar Rush","M4A4 | Hellfire"],
+        "red": ["Five-SeveN | Hyper Beast","AWP | Oni Taiji"],
+        "special": ["Knife"]
+    },
+    "Spectrum Case": {
+        "blue": ["PP-Bizon | Jungle Slipstream","SCAR-20 | Blueprint","Desert Eagle | Oxide Blaze","Five-SeveN | Capillary","MP7 | Akoben","P250 | Ripple","Sawed-Off | Zander"],
+        "purple": ["Galil AR | Crimson Tsunami","M249 | Emerald Poison Dart","MAC-10 | Last Dive","UMP-45 | Scaffold","XM1014 | Seasons"],
+        "pink": ["AWP | Fever Dream","CZ75-Auto | Xiangliu","M4A1-S | Decimator"],
+        "red": ["AK-47 | Bloodsport","USP-S | Neo-Noir"],
+        "special": ["Knife"]
+    },
+    "Glove Case" : {
+        "blue": [
+            "CZ75-Auto | Polymer",
+            "Glock-18 | Ironwork",
+            "MP7 | Cirrus",
+            "Galil AR | Black Sand",
+            "MP9 | Sand Scale",
+            "MP9 | Sonar",
+            "MAG-7 | Sonar"
+        ],
+        "purple": [
+            "P2000 | Turf",
+            "Dual Berettas | Royal Consorts",
+            "G3SG1 | Stinger",
+            "M4A1-S | Flashback",
+            "Nova | Gila",
+            "USP-S | Cyrex"
+        ],
+        "pink": [
+            "FAMAS | Mecha Industries",
+            "P90 | Shallow Grave"
+        ],
+        "red": [
+            "Sawed-Off | Wasteland Princess",
+            "SSG 08 | Dragonfire",
+            "M4A4 | Buzz Kill"
+        ],
+        "special": [
+            "Gloves"
+        ]
+    },
+    "Gamma 2 Case" : {
+        "blue": [
+            "CZ75-Auto | Imprint",
+            "Five-SeveN | Scumbria",
+            "G3SG1 | Ventilator",
+            "Negev | Dazzle",
+            "P90 | Grim",
+            "UMP-45 | Briefing",
+            "XM1014 | Slipstream"
+        ],
+        "purple": [
+            "Desert Eagle | Directive",
+            "Glock-18 | Weasel",
+            "MAG-7 | Petroglyph",
+            "SCAR-20 | Powercore",
+            "SG 553 | Triarch"
+        ],
+        "pink": [
+            "AUG | Syd Mead",
+            "MP9 | Airlock",
+            "Tec-9 | Fuel Injector"
+        ],
+        "red": [
+            "AK-47 | Neon Revolution",
+            "FAMAS | Roll Cage"
+        ],
+        "special": ["Knife"]
+    },
+    "Gamma Case" : {
+        "blue": [
+            "Five-SeveN | Violent Daimyo",
+            "MAC-10 | Carnivore",
+            "Nova | Exo",
+            "P250 | Iron Clad",
+            "PP-Bizon | Harvester",
+            "SG 553 | Aerial",
+            "Tec-9 | Ice Cap"
+        ],
+        "purple": [
+            "AUG | Aristocrat",
+            "AWP | Phobos",
+            "P90 | Chopper",
+            "R8 Revolver | Reboot",
+            "Sawed-Off | Limelight"
+        ],
+        "pink": [
+            "M4A4 | Desolate Space",
+            "P2000 | Imperial Dragon",
+            "SCAR-20 | Bloodsport"
+        ],
+        "red": [
+            "Glock-18 | Wasteland Rebel",
+            "M4A1-S | Mecha Industries"
+        ],
+        "special": ["Knife"]
+    },
+    "Chroma 3 Case" : {
+        "blue": [
+            "Dual Berettas | Ventilators",
+            "G3SG1 | Orange Crash",
+            "M249 | Spectre",
+            "MP9 | Bioleak",
+            "P2000 | Oceanic",
+            "Sawed-Off | Fubar",
+            "SG 553 | Atlas"
+        ],
+        "purple": [
+            "CZ75-Auto | Red Astor",
+            "Galil AR | Firefight",
+            "SSG 08 | Ghost Crusader",
+            "Tec-9 | Re-Entry",
+            "XM1014 | Black Tie"
+        ],
+        "pink": [
+            "AUG | Fleet Flock",
+            "P250 | Asiimov",
+            "UMP-45 | Primal Saber"
+        ],
+        "red": [
+            "PP-Bizon | Judgement of Anubis",
+            "M4A1-S | Chantico's Fire"
+        ],
+        "special": ["Knife"]
+    },
+    "Revolver Case" : {
+        "blue": [
+            "SCAR-20 | Outbreak",
+            "Sawed-Off | Yorick",
+            "P2000 | Imperial",
+            "Desert Eagle | Corinthian",
+            "AUG | Ricochet",
+            "R8 Revolver | Crimson Web"
+        ],
+        "purple": [
+            "XM1014 | Teclu Burner",
+            "Tec-9 | Avalanche",
+            "SG 553 | Tiger Moth",
+            "Five-SeveN | Retrobution",
+            "Negev | Power Loader",
+            "PP-Bizon | Fuel Rod"
+        ],
+        "pink": [
+            "G3SG1 | The Executioner",
+            "P90 | Shapewood",
+            "AK-47 | Point Disarray"
+        ],
+        "red": [
+            "M4A4 | Royal Paladin",
+            "R8 Revolver | Fade"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "Shadow Case" : {
+        "blue": [
+            "Dual Berettas | Dualing Dragons",
+            "FAMAS | Survivor Z",
+            "Glock-18 | Wraiths",
+            "MAC-10 | Rangeen",
+            "MAG-7 | Cobalt Core",
+            "SCAR-20 | Green Marine",
+            "XM1014 | Scumbria"
+        ],
+        "purple": [
+            "Galil AR | Stone Cold",
+            "M249 | Nebula Crusader",
+            "MP7 | Special Delivery",
+            "P250 | Wingshot"
+        ],
+        "pink": [
+            "AK-47 | Frontside Misty",
+            "G3SG1 | Flux",
+            "SSG 08 | Big Iron"
+        ],
+        "red": [
+            "M4A1-S | Golden Coil",
+            "USP-S | Kill Confirmed"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "Falchion Case" : {
+        "blue": [
+            "DGalil AR | Rocket Pop",
+            "Glock-18 | Bunsen Burner",
+            "Nova | Ranger",
+            "P90 | Elite Build",
+            "UMP-45 | Riot",
+            "USP-S | Torque"
+        ],
+        "purple": [
+            "FAMAS | Neural Net",
+            "M4A4 | Evil Daimyo",
+            "MP9 | Ruby Poison Dart",
+            "Negev | Loudmouth",
+            "P2000 | Handgun"
+        ],
+        "pink": [
+            "CZ75-Auto | Yellow Jacket",
+            "MP7 | Nemesis",
+            "SG 553 | Cyrex"
+        ],
+        "red": [
+            "AK-47 | Aquamarine Revenge",
+            "AWP | Hyper Beast"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "Chroma 2 Case" : {
+        "blue": [
+            "AK-47 | Elite Build",
+            "MP7 | Armor Core",
+            "Desert Eagle | Bronze Deco",
+            "P250 | Valence",
+            "Negev | Man-o'-war",
+            "Sawed-Off | Origami"
+        ],
+        "purple": [
+            "AWP | Worm God",
+            "MAG-7 | Heat",
+            "CZ75-Auto | Pole Position",
+            "UMP-45 | Grand Prix"
+        ],
+        "pink": [
+            "Five-SeveN | Monkey Business",
+            "Galil AR | Eco",
+            "FAMAS | Djinn"
+        ],
+        "red": [
+            "M4A1-S | Hyper Beast",
+            "MAC-10 | Neon Rider"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "Chroma Case" : {
+        "blue": [
+            "Glock-18 | Catacombs",
+            "M249 | System Lock",
+            "MP9 | Deadly Poison",
+            "SCAR-20 | Grotto",
+            "XM1014 | Quicksilver"
+        ],
+        "purple": [
+            "Dual Berettas | Urban Shock",
+            "Desert Eagle | Naga",
+            "MAC-10 | Malachite",
+            "Sawed-Off | Serenity"
+        ],
+        "pink": [
+            "AK-47 | Cartel",
+            "M4A4 | Dragon King",
+            "P250 | Muertos"
+        ],
+        "red": [
+            "AWP | Man-o'-war",
+            "Galil AR | Chatterbox"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "Operation Vanguard Weapon Case" : {
+        "blue": [
+            "G3SG1 | Murky",
+            "MAG-7 | Firestarter",
+            "MP9 | Dart",
+            "Five-SeveN | Urban Hazard",
+            "UMP-45 | Delusion"
+        ],
+        "purple": [
+            "Glock-18 | Grinder",
+            "M4A1-S | Basilisk",
+            "M4A4 | Griffin",
+            "Sawed-Off | Highwayman"
+        ],
+        "pink": [
+            "P250 | Cartel",
+            "SCAR-20 | Cardiac",
+            "XM1014 | Tranquility"
+        ],
+        "red": [
+            "AK-47 | Wasteland Rebel",
+            "P2000 | Fire Elemental"
+        ],
+        "special": [
+            "Knife"
+        ]
+    },
+    "eSports 2014 Summer Case" : {
+        "blue": [
+            
+            "SSG 08 | Dark Water",
+            "MAC-10 | Ultraviolet",
+            "USP-S | Blood Tiger",
+            "CZ75-Auto | Hexane",
+            "Negev | Bratatat",
+            "XM1014 | Red Python"
+        ],
+        "purple": [
+            "PP-Bizon | Blue Streak",
+            "P90 | Virus",
+            "MP7 | Ocean Foam",
+            "Glock-18 | Steel Disruption",
+            "Desert Eagle | Crimson Web"
+        ],
+        "pink": [
+            "AUG | Bengal Tiger",
+            "Nova | Bloomstick",
+            "AWP | Corticera",
+            "P2000 | Corticera"
+        ],
+        "red": [
+            "M4A4 | Bullet Rain",
+            "AK-47 | Jaguar"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Operation Breakout Weapon Case" : {
+        "blue": [
+            
+            "MP7 | Urban Hazard",
+            "Negev | Desert-Strike",
+            "P2000 | Ivory",
+            "SSG 08 | Abyss",
+            "UMP-45 | Labyrinth"
+        ],
+        "purple": [
+            "PP-Bizon | Osiris",
+            "CZ75-Auto | Tigris",
+            "Nova | Koi",
+            "P250 | Supernova"
+        ],
+        "pink": [
+            "Desert Eagle | Conspiracy",
+            "Five-SeveN | Fowl Play",
+            "Glock-18 | Water Elemental"
+        ],
+        "red": [
+            "P90 | Asiimov",
+            "M4A1-S | Cyrex"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Huntsman Weapon Case" : {
+        "blue": [
+            
+            "Tec-9 | Isaac",
+            "SSG 08 | Slashed",
+            "Galil AR | Kami",
+            "CZ75-Auto | Twist",
+            "P90 | Module",
+            "P2000 | Pulse"
+        ],
+        "purple": [
+            "AUG | Torque",
+            "PP-Bizon | Antique",
+            "XM1014 | Heaven Guard",
+            "MAC-10 | Tatter"
+        ],
+        "pink": [
+            "M4A1-S | Atomic Alloy",
+            "SCAR-20 | Cyrex",
+            "USP-S | Caiman"
+        ],
+        "red": [
+            "AK-47 | Vulcan",
+            "M4A4 | Desert-Strike"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Operation Phoenix Weapon Case" : {
+        "blue": [
+            
+            "UMP-45 | Corporal",
+            "Negev | Terrain",
+            "Tec-9 | Sandstorm",
+            "MAG-7 | Heaven Guard"
+        ],
+        "purple": [
+            "MAC-10 | Heat",
+            "SG 553 | Pulse",
+            "FAMAS | Sergeant",
+            "USP-S | Guardian"
+        ],
+        "pink": [
+            "AK-47 | Redline",
+            "P90 | Trigon",
+            "Nova | Antique"
+        ],
+        "red": [
+            "AWP | Asiimov",
+            "AUG | Chameleon"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "CS:GO Weapon Case 3" : {
+        "blue": [
+            
+            "CZ75-Auto | Crimson Web",
+            "P2000 | Red FragCam",
+            "Dual Berettas | Panther",
+            "USP-S | Stainless",
+            "Glock-18 | Blue Fissure"
+        ],
+        "purple": [
+            "CZ75-Auto | Tread Plate",
+            "Tec-9 | Titanium Bit",
+            "Desert Eagle | Heirloom",
+            "Five-SeveN | Copper Galaxy"
+        ],
+        "pink": [
+            "CZ75-Auto | The Fuschia Is Now",
+            "P250 | Undertow"
+        ],
+        "red": [
+            "CZ75-Auto | Victoria"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Winter Offensive Weapon Case" : {
+        "blue": [
+            
+            "Galil AR | Sandstorm",
+            "Five-SeveN | Kami",
+            "M249 | Magma",
+            "PP-Bizon | Cobalt Halftone"
+        ],
+        "purple": [
+            "FAMAS | Pulse",
+            "Dual Berettas | Marina",
+            "MP9 | Rose Iron",
+            "Nova | Rising Skull"
+        ],
+        "pink": [
+            "M4A1-S | Guardian",
+            "P250 | Mehndi",
+            "AWP | Redline"
+        ],
+        "red": [
+            "M4A4 | Asiimov",
+            "Sawed-Off | The Kraken"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "eSports 2013 Winter Case" : {
+        "blue": [
+            
+            "Galil AR | Blue Titanium",
+            "Five-SeveN | Nightshade",
+            "PP-Bizon | Water Sigil",
+            "Nova | Ghost Camo",
+            "G3SG1 | Azure Zebra",
+            "P250 | Steel Disruption"
+        ],
+        "purple": [
+            "AK-47 | Blue Laminate",
+            "P90 | Blind Spot"
+        ],
+        "pink": [
+            "FAMAS | Afterimage",
+            "AWP | Electric Hive",
+            "Desert Eagle | Cobalt Disruption"
+        ],
+        "red": [
+            "M4A4 | X-Ray"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "CS:GO Weapon Case 2" : {
+        "blue": [
+            
+            "Tec-9 | Blue Titanium",
+            "M4A1-S | Blood Tiger",
+            "FAMAS | Hexane",
+            "P250 | Hive",
+            "SCAR-20 | Crimson Web"
+        ],
+        "purple": [
+            "Five-SeveN | Case Hardened",
+            "MP9 | Hypnotic",
+            "Nova | Graphite",
+            "Dual Berettas | Hemoglobin"
+        ],
+        "pink": [
+            "P90 | Cold Blooded",
+            "USP-S | Serum"
+        ],
+        "red": [
+            "SSG 08 | Blood in the Water"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Operation Bravo Case" : {
+        "blue": [
+            
+            "SG 553 | Wave Spray",
+            "Dual Berettas | Black Limba",
+            "Nova | Tempest",
+            "Galil AR | Shattered",
+            "UMP-45 | Bone Pile",
+            "G3SG1 | Demeter"
+        ],
+        "purple": [
+            "USP-S | Overgrowth",
+            "M4A4 | Zirka",
+            "MAC-10 | Graven",
+            "M4A1-S | Bright Water"
+        ],
+        "pink": [
+            "P90 | Emerald Dragon",
+            "P2000 | Ocean Foam",
+            "AWP | Graphite"
+        ],
+        "red": [
+            "AK-47 | Fire Serpent",
+            "Desert Eagle | Golden Koi"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "CS:GO Weapon Case" : {
+        "blue": [
+            
+            "MP7 | Skulls",
+            "AUG | Wings",
+            "SG 553 | Ultraviolet"
+        ],
+        "purple": [
+            "Glock-18 | Dragon Tattoo",
+            "USP-S | Dark Water",
+            "M4A1-S | Dark Water"
+        ],
+        "pink": [
+            "AK-47 | Case Hardened",
+            "Desert Eagle | Hypnotic"
+        ],
+        "red": [
+            "AWP | Lightning Strike"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Shattered Web Case" : {
+        "blue": [
+            "SCAR-20 | Torn",
+            "R8 Revolver | Memento",
+            "G3SG1 | Black Sand",
+            "Nova | Plume",
+            "M249 | Warbird",
+            "MP5-SD | Acid Wash",
+            "Dual Berettas | Balance"
+        ],
+        "purple": [
+            "PP-Bizon | Embargo",
+            "MP7 | Neon Ply",
+            "P2000 | Obsidian",
+            "AUG | Arctic Wolf",
+            "AK-47 | Rat Rod"
+        ],
+        "pink": [
+            "Tec-9 | Decimator",
+            "SSG 08 | Bloodshot",
+            "SG 553 | Colony IV"
+
+        ],
+        "red": [
+            "MAC-10 | Stalker",
+            "AWP | Containment Breach"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "CS20 Case" : {
+        "blue": [
+            "SCAR-20 | Assault",
+            "Tec-9 | Flash Out",
+            "MAG-7 | Popdog",
+            "MAC-10 | Classic Crate",
+            "Dual Berettas | Elite 1.6",
+            "FAMAS | Decommissioned",
+            "Glock-18 | Sacrifice"
+        ],
+        "purple": [
+            "M249 | Aztec",
+            "Five-SeveN | Buddy",
+            "UMP-45 | Plastique",
+            "P250 | Inferno",
+            "MP5-SD | Agent"
+        ],
+        "pink": [
+            "MP9 | Hydra",
+            "P90 | Nostalgia",
+            "AUG | Death by Puppy"
+
+        ],
+        "red": [
+            "FAMAS | Commemoration",
+            "AWP | Wildfire"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Prisma Case" : {
+        "blue": [
+            "MP7 | Mischief",
+            "P90 | Off World",
+            "FAMAS | Crypsis",
+            "P250 | Verdigris",
+            "Galil AR | Akoben",
+            "MAC-10 | Whitefish",
+            "AK-47 | Uncharted"
+        ],
+        "purple": [
+            "Tec-9 | Bamboozle",
+            "UMP-45 | Moonrise",
+            "MP5-SD | Gauss",
+            "Desert Eagle | Light Rail",
+            "AWP | Atheris"
+        ],
+        "pink": [
+            "R8 Revolver | Skull Crusher",
+            "AUG | Momentum",
+            "XM1014 | Incinegator"
+
+        ],
+        "red": [
+            "Five-SeveN | Angry Mob",
+            "M4A4 | The Emperor"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Danger Zone Case" : {
+        "blue": [
+            "Nova | Wood Fired",
+            "Sawed-Off | Black Sand",
+            "MP9 | Modest Threat",
+            "SG 553 | Danger Close",
+            "Glock-18 | Oxide Blaze",
+            "M4A4 | Magnesium",
+            "Tec-9 | Fubar"
+        ],
+        "purple": [
+            "G3SG1 | Scavenger",
+            "Galil AR | Signal",
+            "P250 | Nevermore",
+            "MAC-10 | Pipe Down",
+            "USP-S | Flashback"
+        ],
+        "pink": [
+            "UMP-45 | Momentum",
+            "Desert Eagle | Mecha Industries",
+            "MP5-SD | Phosphor"
+
+        ],
+        "red": [
+            "AWP | Neo-Noir",
+            "AK-47 | Asiimov"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Horizon Case" : {
+        "blue": [
+            "MP9 | Capillary",
+            "R8 Revolver | Survivalist",
+            "Dual Berettas | Shred",
+            "AUG | Amber Slipstream",
+            "Tec-9 | Snek-9",
+            "P90 | Traction",
+            "Glock-18 | Warhawk"
+        ],
+        "purple": [
+            "G3SG1 | High Seas",
+            "MP7 | Powercore",
+            "Nova | Toy Soldier",
+            "CZ75-Auto | Eco",
+            "AWP | PAW"
+        ],
+        "pink": [
+            "FAMAS | Eye of Athena",
+            "Sawed-Off | Devourer",
+            "M4A1-S | Nightmare"
+
+        ],
+        "red": [
+            "Desert Eagle | Code Red",
+            "AK-47 | Neon Rider"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Clutch Case" : {
+        "blue": [
+            "XM1014 | Oxide Blaze",
+            "PP-Bizon | Night Riot",
+            "MP9 | Black Sand",
+            "SG 553 | Aloha",
+            "Five-SeveN | Flame Test",
+            "P2000 | Urban Hazard",
+            "R8 Revolver | Grip"
+        ],
+        "purple": [
+            "Negev | Lionfish",
+            "Nova | Wild Six",
+            "MAG-7 | SWAG-7",
+            "UMP-45 | Arctic Wolf",
+            "Glock-18 | Moonrise"
+        ],
+        "pink": [
+            "AUG | Stymphalian",
+            "USP-S | Cortex",
+            "AWP | Mortis"
+
+        ],
+        "red": [
+            "MP7 | Bloodsport",
+            "M4A4 | Neo-Noir"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "Spectrum 2 Case" : {
+        "blue": [
+            "Glock-18 | Off World",
+            "AUG | Triqua",
+            "Tec-9 | Cracked Opal",
+            "G3SG1 | Hunter",
+            "Sawed-Off | Morris",
+            "MAC-10 | Oceanic",
+            "SCAR-20 | Jungle Slipstream"
+        ],
+        "purple": [
+            "SG 553 | Phantom",
+            "MP9 | Goo",
+            "XM1014 | Ziggy",
+            "UMP-45 | Exposure",
+            "CZ75-Auto | Tacticat"
+        ],
+        "pink": [
+            "PP-Bizon | High Roller",
+            "R8 Revolver | Llama Cannon",
+            "M4A1-S | Leaded Glass"
+
+        ],
+        "red": [
+            "P250 | See Ya Later",
+            "AK-47 | The Empress"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+    "eSports 2013 Case" : {
+        "blue": [
+            "FAMAS | Doomkitty",
+            "MAG-7 | Memento",
+            "M4A4 | Faded Zebra"
+        ],
+        "purple": [
+            "Sawed-Off | Orange DDPAT",
+            "P250 | Splash",
+            "Galil AR | Orange DDPAT"
+        ],
+        "pink": [
+            "AK-47 | Red Laminate",
+            "AWP | BOOM"
+        ],
+        "red": [
+            "P90 | Death by Kitty"
+        ],
+        "special": [
+            "Knife"
+            
+        ]
+    },
+	"Operation Broken Fang Case": {
+		"blue": [
+			"CZ75-Auto | Vendetta",
+			"P90 | Cocoa Rampage",
+			"G3SG1 | Digital Mesh",
+			"Galil AR | Vandal",
+			"P250 | Contaminant",
+			"M249 | Deep Relief",
+			"MP5-SD | Condition Zero"
+		],
+		"purple": [
+			"AWP | Exoskeleton",
+			"Dual Berettas | Dezastre",
+			"Nova | Clear Polymer",
+			"SSG 08 | Parallax",
+			"UMP-45 | Gold Bismuth"
+		],
+		"pink": [
+			"Five-SeveN | Fairy Tale",
+			"M4A4 | Cyber Security",
+			"USP-S | Monster Mashup"
+		],
+		"red": [
+			"M4A1-S | Printstream",
+			"Glock-18 | Neo-Noir"
+		],
+		"special": [
+			"Gloves"
+		]
+	},
+	"Snakebite Case": {
+		"blue": [
+			"SG 553 | Heavy Metal",
+			"Glock-18 | Clear Polymer",
+			"M249 | O.S.I.P.R.",
+			"CZ75-Auto | Circaetus",
+			"UMP-45 | Oscillator",
+			"R8 Revolver | Junk Yard",
+			"Nova | Windblown"
+		],
+		"purple": [
+			"P250 | Cyber Shell",
+			"Negev | dev_texture",
+			"MAC-10 | Button Masher",
+			"Desert Eagle | Trigger Discipline",
+			"AK-47 | Slate"
+		],
+		"pink": [
+			"MP9 | Food Chain",
+			"XM1014 | XOXO",
+			"Galil AR | Chromatic Aberration"
+		],
+		"red": [
+			"USP-S | The Traitor",
+			"M4A4 | In Living Color"
+		],
+		"special": [
+			"Gloves"
+		]
+	},
+	"Dreams & Nightmares Case": {
+		"blue": [
+			"Five-SeveN | Scrawl",
+			"MAC-10 | Ensnared",
+			"MAG-7 | Foresight",
+			"MP5-SD | Necro Jr.",
+			"P2000 | Lifted Spirits",
+			"SCAR-20 | Poultrygeist",
+			"Sawed-Off | Spirit Board"
+		],
+		"purple": [
+			"PP-Bizon | Space Cat",
+			"G3SG1 | Dream Glade",
+			"M4A1-S | Night Terror",
+			"XM1014 | Zombie Offensive",
+			"USP-S | Ticket to Hell"
+		],
+		"pink": [
+			"Dual Berettas | Melondrama",
+			"FAMAS | Rapid Eye Movement",
+			"MP7 | Abyssal Apparition"
+		],
+		"red": [
+			"AK-47 | Nightwish",
+			"MP9 | Starlight Protector"
+		],
+		"special": [
+			"Knife"
+		]
+	},
+	"Operation Riptide Case": {
+		"blue": [
+			"AUG | Plague",
+			"Dual Berettas | Tread",
+			"G3SG1 | Keeping Tabs",
+			"MP7 | Guerrilla",
+			"PP-Bizon | Lumen",
+			"USP-S | Black Lotus",
+			"XM1014 | Watchdog"
+		],
+		"purple": [
+			"MAG-7 | BI83 Spectrum",
+			"FAMAS | ZX Spectron",
+			"Five-SeveN | Boost Protocol",
+			"MP9 | Mount Fuji",
+			"M4A4 | Spider Lily"
+		],
+		"pink": [
+			"MAC-10 | Toybox",
+			"Glock-18 | Snack Attack",
+			"SSG 08 | Turbo Peek"
+		],
+		"red": [
+			"AK-47 | Leet Museo",
+			"Desert Eagle | Ocean Drive"
+		],
+		"special": [
+			"Knife"
+		]
+	},
+	"Fracture Case": {
+		"blue": [
+			"Negev | Ultralight",
+			"P2000 | Gnarled",
+			"SG 553 | Ol' Rusty",
+			"SSG 08 | Mainframe 001",
+			"P250 | Cassette",
+			"P90 | Freight",
+			"PP-Bizon | Runic"
+		],
+		"purple": [
+			"MAG-7 | Monster Call",
+			"Tec-9 | Brother",
+			"MAC-10 | Allure",
+			"Galil AR | Connexion",
+			"MP5-SD | Kitbash"
+		],
+		"pink": [
+			"M4A4 | Tooth Fairy",
+			"Glock-18 | Vogue",
+			"XM1014 | Entombed"
+		],
+		"red": [
+			"Desert Eagle | Printstream",
+			"AK-47 | Legion of Anubis"
+		],
+		"special": [
+			"Knife"
+		]
+	},
+	"Prisma 2 Case": {
+		"blue": [
+			"AUG | Tom Cat",
+			"AWP | Capillary",
+			"CZ75-Auto | Distressed",
+			"Desert Eagle | Blue Ply",
+			"MP5-SD | Desert Strike",
+			"Negev | Prototype",
+			"R8 Revolver | Bone Forged"
+		],
+		"purple": [
+			"P2000 | Acid Etched",
+			"Sawed-Off | Apocalypto",
+			"SCAR-20 | Enforcer",
+			"SG 553 | Darkwing",
+			"SSG 08 | Fever Dream"
+		],
+		"pink": [
+			"AK-47 | Phantom Disruptor",
+			"MAC-10 | Disco Tech",
+			"MAG-7 | Justice"
+		],
+		"red": [
+			"M4A1-S | Player Two",
+			"Glock-18 | Bullet Queen"
+		],
+		"special": [
+			"Knife"
+		]
+	}
+}
